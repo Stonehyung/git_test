@@ -8,8 +8,13 @@ class Person3_4{
         console.log(`Selling ${numberOfShares} of ${symbol}`);
       }
   }
+<<<<<<< HEAD
   const git_revert=1234;
 
+=======
+  
+console.log(Person3_4.person)
+>>>>>>> parent of 74e96fc (git revert 테스트)
   class Employee3_4 extends Person3_4{ //자식 클래스 
     constructor(firstName: string, lastName: string, //부모클래스 파마미터에, department 추가
       age: number, public department: string){
