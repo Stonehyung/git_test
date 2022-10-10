@@ -8,7 +8,7 @@ class Person3_4{
         console.log(`Selling ${numberOfShares} of ${symbol}`);
       }
   }
-  
+  const git_revert=1234;
 
   class Employee3_4 extends Person3_4{ //자식 클래스 
     constructor(firstName: string, lastName: string, //부모클래스 파마미터에, department 추가
